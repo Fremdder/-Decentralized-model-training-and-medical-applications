@@ -1,1 +1,1 @@
-# -Decentralized-model-training-and-medical-applications
+# Decentralized-model-training-and-medical-applications
